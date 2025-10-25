@@ -305,10 +305,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-**Author:** [Your Name]  
-**Email:** [your.email@example.com]  
-**LinkedIn:** [Your LinkedIn Profile]  
-**GitHub:** [Your GitHub Profile]
+**Author:** LE HUU PHU
+**Email:** phule9225@gmail.com
 
 **Institution:** Da Nang University of Technology  
 **Program:** Master of Computer Science  
@@ -347,7 +345,7 @@ If you use this work in your research, please cite:
 ```bibtex
 @mastersthesis{yourname2025gesture,
   title={Hand Gesture Recognition for Computer Control},
-  author={Your Name},
+  author={LE HUU PHU},
   year={2025},
   school={Da Nang University of Technology},
   type={Master's thesis},
