@@ -1,33 +1,7 @@
-# Hand Gesture Recognition Backend Requirements
-# Python 3.8+ required
-
-# Web Framework
-fastapi==0.104.1
-uvicorn[standard]==0.24.0
-python-socketio==5.10.0
-python-multipart==0.0.6
-
-# Machine Learning
-tensorflow==2.13.0
-keras==2.13.1
-opencv-python==4.8.1.78
+torch==2.0.1
+torchvision==0.15.2
+opencv-python==4.8.0
 numpy==1.24.3
-pillow==10.0.1
-
-# System Control
-pyautogui==0.9.54
-pynput==1.7.6
-
-# Data Processing
-pandas==2.0.3
-scikit-learn==1.3.0
-
-# Utilities
-python-dotenv==1.0.0
-pathlib2==2.3.7
-
-# Development (optional)
-pytest==7.4.2
-pytest-asyncio==0.21.1
-black==23.7.0
-flake8==6.0.0
+pillow==9.5.0
+mediapipe==0.10.0
+protobuf<4.24.0

@@ -61,7 +61,8 @@ app.*.map.json
 .env/
 .venv/
 
-/model/dataset/
+/model/datasets/
+/model/trained_models/
 
 /backend/models/
 /backend/venv/
